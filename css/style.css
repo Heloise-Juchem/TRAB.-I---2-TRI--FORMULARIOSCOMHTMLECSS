@@ -26,6 +26,6 @@ body{
     align-items: center;
 }
 
-form input{
+form input:not(input[type="radio"]){
     width: 100%;
 }
