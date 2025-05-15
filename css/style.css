@@ -25,3 +25,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+form input{
+    width: 100%;
+}
